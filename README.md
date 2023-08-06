@@ -16,6 +16,6 @@ August 5, 2023
 '''' 
 
 ## Design 
-<img src="./design1.jpeg"
+<img src="./Design1.jpeg"
      alt="Pull Request.html"
      style="float: left; margin-right: 10px;" /
