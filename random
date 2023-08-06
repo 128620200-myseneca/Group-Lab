@@ -23,10 +23,11 @@ while running:
 	    player = None
         computer = random.choice(options)
 
+
     # Looping through until the player enters a valid choice among "rock", "paper", and "scissors"
     while player not in options:
         player = input("Enter rock, paper or scissors): ")
-   
+
     print(f"Player: {player}")
     print(f"Computer: {computer}")
 
